@@ -1,17 +1,3 @@
-
-*** Only Frontend-developed, no Backend-development  ***
-
-Skills:- modern techniques, responsive, semantic-coding
-HTML,CSS,SASS
-
-sass compiler
-cssGrid, css animation
-architecture: used 1sass folder contains all sass files.
-		     all that code imported to main.scss file.
-		     then, main.scss is compiled to plain styles.css file
-
-
-
 "Nexter" is a fictional luxirous house selling webiste.
 
 we have 8 parts in  our Grid-system:
