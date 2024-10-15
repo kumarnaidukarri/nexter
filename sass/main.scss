@@ -1,0 +1,13 @@
+/* all sass subfiles imported into this sass main-file, then compiled into pure CSS */
+
+/*Importing*/
+@import "base.scss";
+@import "features.scss";
+@import "footer.scss";
+@import "gallery.scss";
+@import "header.scss";
+@import "homes.scss";
+@import "realtors.scss";
+@import "sidebar.scss";
+@import "story.scss";
+@import "typography.scss";
